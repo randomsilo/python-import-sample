@@ -17,3 +17,8 @@ instance = FilenameWithoutDotPy.MyClassName()
 ```
 python3 subdir-test.py
 ```
+
+## Nested Sub Directories and Inheritence
+
+Take a look at the files under libproj.
+I created an abstract base class that has implemented methods and methods to be implemented by the sub class.
