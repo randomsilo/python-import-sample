@@ -1,0 +1,8 @@
+   DEBUG -- 2017-10-17 21:18:39,881 -- call self.anExample.member_function!
+   DEBUG -- 2017-10-17 21:20:56,815 -- call self.anExample.member_function!
+   DEBUG -- 2017-10-17 21:21:54,192 -- call self.anExample.member_function!
+   DEBUG -- 2017-10-17 21:25:26,636 -- call self.anExample.member_function!
+   DEBUG -- 2017-10-17 21:37:41,413 -- call self.anExample.member_function!
+   DEBUG -- 2017-10-17 21:42:36,949 -- call self.anExample.member_function!
+   DEBUG -- 2017-10-17 21:48:05,703 -- call self.anExample.member_function!
+   DEBUG -- 2017-10-17 21:48:05,703 -- Do Stuff

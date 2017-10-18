@@ -4,7 +4,7 @@ Imports are confusing and the examples are weak; so I am putting together a samp
 
 ## Sub Directory
 
-No __init__.py required.
+No ```__init__.py``` required.
 The syntax is :
 ```
 from SubDirectoryname import FilenameWithoutDotPy
@@ -22,3 +22,8 @@ python3 subdir-test.py
 
 Take a look at the files under libproj.
 I created an abstract base class that has implemented methods and methods to be implemented by the sub class.
+
+## Logging in Modules
+
+The loggin-test.py shows how to turn on logging for an app.
+Example.py has a method for turning on class logging; more to come...not doen with this yet.
